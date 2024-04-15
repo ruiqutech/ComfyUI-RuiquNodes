@@ -1,2 +1,3 @@
 # ComfyUI-RuiquNodes
-some useful nodes for ComfyUI
+Nodes of EvaluateMultiple1, EvaluateMultiple3...
+Support the execution of any fragment of Python code, generating multiple outputs from multiple inputs.
